@@ -46,7 +46,6 @@ const generateFiles = async ({ client, prompt, initialCode, codeReview }) => {
                 { role: 'user', content: initialCode(prompt, lang) }
             ]
         });
-        console.log(response)
         return response.choices[0].message.content;
     }
     
