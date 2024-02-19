@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-local-ai",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An eleventy plugin for generating static assets from text prompts",
   "main": "index.js",
   "type": "commonjs",
@@ -31,6 +31,7 @@
   },
   "files": [
     "index.js",
+    "LocalAI.js",
     "package.json",
     "README.md"
   ],
