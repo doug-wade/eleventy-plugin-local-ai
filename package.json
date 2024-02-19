@@ -1,0 +1,44 @@
+{
+  "name": "eleventy-plugin-local-ai",
+  "version": "0.0.3",
+  "description": "An eleventy plugin for generating static assets from text prompts",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "coverage": "node --test --experimental-test-coverage",
+    "test": "node --test",
+    "lint": "eslint index.js index.test.js"
+  },
+  "keywords": [
+    "genai",
+    "ai",
+    "gpt",
+    "local-ai",
+    "LocalAI",
+    "eleventy"
+  ],
+  "author": "Douglas Wade <douglas.b.wade@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "openai-fetch": "^1.6.5",
+    "jsdom": "^24.0.0",
+    "mkdirp": "^3.0.1",
+    "undici": "^6.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.5",
+    "eslint": "^8.56.0"
+  },
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "bugs": {
+    "url": "https://github.com/doug-wade/eleventy-plugin-local-ai/issues?q=is%3Aissue+is%3Aopen"
+  },
+  "homepage": "https://github.com/doug-wade/eleventy-plugin-local-ai",
+  "repository": {
+    "url": "git+https://github.com/doug-wade/eleventy-plugin-local-ai.git"
+  }
+}
