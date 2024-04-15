@@ -25,7 +25,7 @@
     "undici": "^6.6.2"
   },
   "devDependencies": {
-    "@types/node": "20.11.30",
+    "@types/node": "20.12.7",
     "eslint": "^8.56.0"
   },
   "files": [
