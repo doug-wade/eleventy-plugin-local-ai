@@ -22,7 +22,7 @@
   "dependencies": {
     "jsdom": "^25.0.1",
     "mkdirp": "^3.0.1",
-    "undici": "^6.6.2"
+    "undici": "^7.1.0"
   },
   "devDependencies": {
     "@types/node": "22.7.5",
