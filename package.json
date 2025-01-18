@@ -26,8 +26,8 @@
   },
   "devDependencies": {
     "@types/node": "22.10.5",
-    "globals": "^15.4.0",
-    "eslint": "^9.4.0"
+    "eslint": "^9.4.0",
+    "globals": "^15.4.0"
   },
   "files": [
     "index.js",
@@ -44,5 +44,6 @@
   },
   "engines": {
     "node": ">= 20.0.0"
-  }
+  },
+  "packageManager": "yarn@4.6.0"
 }
