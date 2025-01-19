@@ -20,7 +20,7 @@
   "author": "Douglas Wade <douglas.b.wade@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^25.0.1",
+    "jsdom": "^26.0.0",
     "mkdirp": "^3.0.1",
     "undici": "^6.6.2"
   },
