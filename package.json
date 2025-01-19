@@ -41,5 +41,8 @@
   "homepage": "https://github.com/doug-wade/eleventy-plugin-local-ai",
   "repository": {
     "url": "git+https://github.com/doug-wade/eleventy-plugin-local-ai.git"
+  },
+  "engines": {
+    "node": ">= 20.0.0"
   }
 }
