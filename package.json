@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-local-ai",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "An eleventy plugin for generating static assets from text prompts",
   "main": "index.js",
   "type": "commonjs",
