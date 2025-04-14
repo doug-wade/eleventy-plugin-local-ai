@@ -202,12 +202,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.10.5":
-  version: 22.10.5
-  resolution: "@types/node@npm:22.10.5"
+"@types/node@npm:22.14.1":
+  version: 22.14.1
+  resolution: "@types/node@npm:22.14.1"
   dependencies:
-    undici-types: "npm:~6.20.0"
-  checksum: 10c0/6a0e7d1fe6a86ef6ee19c3c6af4c15542e61aea2f4cee655b6252efb356795f1f228bc8299921e82924e80ff8eca29b74d9dd0dd5cc1a90983f892f740b480df
+    undici-types: "npm:~6.21.0"
+  checksum: 10c0/d49c4d00403b1c2348cf0701b505fd636d80aabe18102105998dc62fdd36dcaf911e73c7a868c48c21c1022b825c67b475b65b1222d84b704d8244d152bb7f86
   languageName: node
   linkType: hard
 
@@ -415,7 +415,7 @@ __metadata:
   resolution: "eleventy-plugin-local-ai@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.1"
-    "@types/node": "npm:22.10.5"
+    "@types/node": "npm:22.14.1"
     eslint: "npm:^9.4.0"
     globals: "npm:^15.4.0"
     jsdom: "npm:^26.0.0"
@@ -1099,10 +1099,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~6.20.0":
-  version: 6.20.0
-  resolution: "undici-types@npm:6.20.0"
-  checksum: 10c0/68e659a98898d6a836a9a59e6adf14a5d799707f5ea629433e025ac90d239f75e408e2e5ff086afc3cace26f8b26ee52155293564593fbb4a2f666af57fc59bf
+"undici-types@npm:~6.21.0":
+  version: 6.21.0
+  resolution: "undici-types@npm:6.21.0"
+  checksum: 10c0/c01ed51829b10aa72fc3ce64b747f8e74ae9b60eafa19a7b46ef624403508a54c526ffab06a14a26b3120d055e1104d7abe7c9017e83ced038ea5cf52f8d5e04
   languageName: node
   linkType: hard
 
